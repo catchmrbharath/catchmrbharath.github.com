@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bharath M R</title><link href="www.catchmrbharath.in/" rel="alternate"></link><link href="www.catchmrbharath.in/feeds/Life.atom.xml" rel="self"></link><id>www.catchmrbharath.in/</id><updated>2012-10-24T00:00:00+05:30</updated><entry><title>Learning to walk before you run</title><link href="www.catchmrbharath.in/posts/Life/2012-Oct-24/learning-to-walk-before-you-run/" rel="alternate"></link><updated>2012-10-24T00:00:00+05:30</updated><author><name>Bharath M R</name></author><id>tag:www.catchmrbharath.in,2012-10-24:posts/Life/2012-Oct-24/learning-to-walk-before-you-run/</id><summary type="html">&lt;p&gt;tags [Programming, learning]&lt;/p&gt;
+&lt;p&gt;When I look back at the last 4 years of my engineering life, I feel I haven't
+done anything worthwhile. Compared to the amount of learning I did in my pre
+-college years, the last 4 years look like nothing. I did a lot of things in
+these four years, but I cannot claim to be an expert in any of them. During
+my school days, I was really good at what I learnt, maybe the best among my
+peers. One might argue that the feeling you have is, because you have the most
+competitive and talented peers . But that's not true. There was
+something that changed after clearing JEE and that was trying to run before
+you walk.&lt;/p&gt;
+&lt;p&gt;I always want to see the whole picture before learning something, i.e. what do
+I get to do after I learn these stuff. In school education, you always know
+what you are going to do with the things you learnt, but it is not the case
+with college education. The first two years of my undergraduate studies, was
+spent doing courses like Networks and systems, Digital systems, Analog
+circuits, Control systems etc. Nobody gave me an idea on where these things are
+going to be used during these period. Even though it was interesting, I felt the pace
+of these courses was slow. I was asked to calculate the Fourier transforms of
+infinitely many functions just for the sake of it. I didn't know where these
+functions are going to be used. So I started spending time on other things. One
+of them that got me interested is programming. You could see the output
+immediately and there were examples of huge systems built with the things that
+I was learning. But two years of clearing the courses with very little effort
+had made me cocky and overconfident. I had lost the patience to go through
+something with care. I wanted to become an awesome programmer as quickly as
+possible. I wanted to create GUI's, so I started learning Java.(Then I felt it
+was the thing that we can make GUI's with.). But again I was impatient.
+I started learning the language and I went through the initial part really very
+fast and lost my interest after I started encountering some things which were
+dependent on the fundamentals.&lt;/p&gt;
+&lt;p&gt;I never realized the basic mistake I was making. Thinking that I knew Java
+pretty well, I started experimenting with android development. I built some
+good apps by googling things and figuring out, but never ever tried to learn
+the basics. I was just trying to run. When you make an extreme effort to run,
+you will fall at a distance from your starting point, which gives you the
+illusion that you made some progress, but actually you are at the same point.&lt;/p&gt;
+&lt;p&gt;In the summer of my fourth year, I put some effort and got into Google summer
+of code. It was a stroke of luck i.e. my programming capabilities were still
+bad. I think my organisation decided to go with me because of the amount of
+effort that I put in getting my application done. This was a large project and
+I think this is the place where I learnt most of the things I know today.
+I learnt to write decently good code, learnt on how to communicate via email,
+and other things. This is one place where I learnt things from scratch and
+started experimenting.&lt;/p&gt;
+&lt;p&gt;People think that I know things really well, but thats not true. People say
+that I am going through the [Imposter's syndrome]{www.http://en.wikipedia.org/wiki/Impostor_syndrome},
+but I am not. I am still an awful programmer who knows things because he reads
+a lot of [Hacker News]{www.news.ycombinator.com}. &lt;/p&gt;
+&lt;p&gt;This has to change. I have to start to relearn things. One thing that GSoC
+taught me is that it is really necessary to spend some time before you become
+good at it. You need to walk before you run. Maybe its too late, but there is
+only one path that I can take, that is to relearn things and not go with the
+flow.&lt;/p&gt;</summary></entry></feed>
